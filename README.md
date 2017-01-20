@@ -22,7 +22,7 @@ $ yarn add rkgttr-weakmappolyfill --dev
 ### Getting Started
 
 ```js
-import weakMapPolyfill from 'rkgttr-weakmappolyfill';
+import 'rkgttr-weakmappolyfill';
 ```
 
 or

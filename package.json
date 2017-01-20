@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "rkgttr-weakmappolyfill",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Polyfill for WeakMap.",
   "repository": "rkgttr/rkgttr-weakmappolyfill",
   "author": "Erik Guittiere",
